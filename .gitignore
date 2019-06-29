@@ -1,0 +1,6 @@
+*.pdf
+*.pyc
+*.zip
+.vscode/
+.vs/
+lab5/
